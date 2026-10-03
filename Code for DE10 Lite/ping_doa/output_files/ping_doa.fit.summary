@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sat Oct 03 11:59:25 2026
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : ping_doa
+Top-level Entity Name : ping_doa_top
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 2,390 / 49,760 ( 5 % )
+    Total combinational functions : 2,274 / 49,760 ( 5 % )
+    Dedicated logic registers : 983 / 49,760 ( 2 % )
+Total registers : 983
+Total pins : 52 / 360 ( 14 % )
+Total virtual pins : 0
+Total memory bits : 27,648 / 1,677,312 ( 2 % )
+Embedded Multiplier 9-bit elements : 16 / 288 ( 6 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

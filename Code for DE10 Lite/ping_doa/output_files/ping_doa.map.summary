@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sat Oct 03 11:58:53 2026
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : ping_doa
+Top-level Entity Name : ping_doa_top
+Family : MAX 10
+Total logic elements : 2,560
+    Total combinational functions : 2,273
+    Dedicated logic registers : 1,034
+Total registers : 1034
+Total pins : 52
+Total virtual pins : 0
+Total memory bits : 27,648
+Embedded Multiplier 9-bit elements : 16
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

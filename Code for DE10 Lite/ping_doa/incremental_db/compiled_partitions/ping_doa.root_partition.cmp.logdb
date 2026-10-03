@@ -1,0 +1,11 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,doa_solve:u_doa|lpm_mult:Mult0|mult_6ks:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,doa_solve:u_doa|lpm_mult:Mult1|mult_6ks:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,doa_solve:u_doa|lpm_mult:Mult0|mult_6ks:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,doa_solve:u_doa|lpm_mult:Mult1|mult_6ks:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,tdoa_xcorr:u_xc|lpm_mult:Mult0|mult_pgs:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,fir_serial:g_fir[0].u_fir|lpm_mult:Mult0|mult_sgs:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,fir_serial:g_fir[1].u_fir|lpm_mult:Mult0|mult_sgs:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,fir_serial:g_fir[2].u_fir|lpm_mult:Mult0|mult_sgs:auto_generated|mac_out2,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,doa_solve:u_doa|lpm_mult:Mult0|mult_6ks:auto_generated|mac_mult1,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,doa_solve:u_doa|lpm_mult:Mult1|mult_6ks:auto_generated|mac_mult1,

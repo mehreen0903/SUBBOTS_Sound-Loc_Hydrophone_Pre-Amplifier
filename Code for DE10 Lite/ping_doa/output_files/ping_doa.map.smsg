@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at ping_doa_top.sv(200): always construct contains both blocking and non-blocking assignments File: C:/Users/Asus/Documents/1UBC/SUBBOTS/ping_doa/ping_doa_top.sv Line: 200
+Warning (10268): Verilog HDL information at ping_doa_top.sv(324): always construct contains both blocking and non-blocking assignments File: C:/Users/Asus/Documents/1UBC/SUBBOTS/ping_doa/ping_doa_top.sv Line: 324
+Warning (10268): Verilog HDL information at ping_doa_top.sv(442): always construct contains both blocking and non-blocking assignments File: C:/Users/Asus/Documents/1UBC/SUBBOTS/ping_doa/ping_doa_top.sv Line: 442

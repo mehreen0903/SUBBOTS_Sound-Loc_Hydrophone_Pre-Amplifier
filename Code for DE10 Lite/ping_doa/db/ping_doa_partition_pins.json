@@ -1,0 +1,193 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LEDR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[6]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[7]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[8]",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_CONVST",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_CS_N",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_RD_N",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_RESET",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_OUT[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ANGLE_STROBE",
+					"strict" : false
+				},
+				{
+					"name" : "MAX10_CLK1_50",
+					"strict" : false
+				},
+				{
+					"name" : "KEY[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_BUSY",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ADC_DB[15]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
